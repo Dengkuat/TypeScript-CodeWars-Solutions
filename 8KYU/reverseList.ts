@@ -1,3 +1,3 @@
-function reverseList(list) {
+function reverseList<T>(list: T[]): T[] {
   return list.reverse();
 }
