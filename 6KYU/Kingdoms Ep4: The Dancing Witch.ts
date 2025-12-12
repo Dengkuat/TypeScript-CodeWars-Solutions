@@ -89,4 +89,4 @@ export function figureOut(arr: string[]): string | null {
         }
     }
     return null;
-}
+} 
