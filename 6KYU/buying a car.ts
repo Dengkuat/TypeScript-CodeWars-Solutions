@@ -38,7 +38,7 @@
 function nbMonths(startPriceOld: number, startPriceNew: number, savingperMonth: number, percentLossByMonth: number): number[] {
   let month: number = 0;
   let saving: number = 0;
-
+  
   let oldCarValue: number = startPriceOld;
   let newCarValue:number = startPriceNew;
 
