@@ -7,7 +7,7 @@
 // only contains alphanumeric characters (note that '_' is not alphanumeric)
 //
 //test cases
-// it("sample tests", () => {
+// it("sample tests", () => {  
 // 		doTest('fjd3IR9', true);
 // 		doTest('ghdfj32', false);
 // 		doTest('DSJKHD23', false);
