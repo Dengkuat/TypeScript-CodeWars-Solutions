@@ -12,7 +12,7 @@
 // 		doTest('ghdfj32', false);
 // 		doTest('DSJKHD23', false);
 // 		doTest('dsF43', false);
-// 		doTest('4fdg5Fj3', true);
+// 		doTest('4fdg5Fj3', true);  
 // 		doTest('DHSJdhjsU', false);
 // 		doTest('fjd3IR9.;', false);
 // 		doTest('fjd3  IR9', false);
